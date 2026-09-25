@@ -13,4 +13,4 @@ footer.innerHTML = `<footer>
         <p>© 2026 Hans Zhang</p>
     </footer>`;
 
-/* https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON */
+/* citation: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON */
